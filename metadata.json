@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Copy of My Market AI",
+  "description": "A fully 3D, colorful stock analysis tool. Upload a chart, and the AI performs technical analysis to suggest Buy/Sell zones with confidence ratings.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
